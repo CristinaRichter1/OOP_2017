@@ -2,7 +2,7 @@
 Cpp project for college
 
 PROJECT: "Budgeting App"
-SUBMISSION DATE: 17 nov 2017
+SUBMISSION DATE: 21 dec 2017
 
 FILES:
 * classes.h contains class and member declarations
